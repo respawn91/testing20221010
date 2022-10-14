@@ -15,3 +15,5 @@ IDE (для тех, кто хочет помучиться):
 Продвинутые блокноты:
 - https://notepad-plus-plus.org/downloads/
 - https://code.visualstudio.com/
+
+Ссылка на группу по решению задач в телеге: https://t.me/+MUh35wtzmzRiMWVi
