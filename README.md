@@ -11,3 +11,7 @@ IDE (для тех, кто хочет помучиться):
 - https://metanit.com/java/tutorial/
 - https://javarush.ru/
 - https://stepik.org/course/187/promo
+
+Продвинутые блокноты:
+- https://notepad-plus-plus.org/downloads/
+- https://code.visualstudio.com/
