@@ -17,3 +17,6 @@ IDE (для тех, кто хочет помучиться):
 - https://code.visualstudio.com/
 
 Ссылка на группу по решению задач в телеге: https://t.me/+MUh35wtzmzRiMWVi
+
+Работа с API:
+- https://editor.swagger.io/
