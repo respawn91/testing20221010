@@ -20,3 +20,8 @@ IDE (для тех, кто хочет помучиться):
 
 Работа с API:
 - https://editor.swagger.io/
+
+Изучение БД:
+- https://www.sql-ex.ru/
+- https://sql-academy.org/ru
+- https://stepik.org/course/63054/promo
