@@ -25,3 +25,4 @@ IDE (для тех, кто хочет помучиться):
 - https://www.sql-ex.ru/
 - https://sql-academy.org/ru
 - https://stepik.org/course/63054/promo
+- https://postgrespro.ru/education/courses
